@@ -1,2 +1,2 @@
 # task-Management
-its a task management build with HTML, CSS , Javascript and with the help of bootstrap.
+its a task management system build with HTML, CSS , Javascript and with the help of bootstrap.
